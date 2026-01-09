@@ -71,7 +71,7 @@ const projects = [
     category: "Desenvolvimento",
     image: "/rh.jpg",
         link:"https://github.com/larialv12/Projeto-SmartRh",
-        repo :"",
+        repo :"https://github.com/larialv12/Projeto-SmartRh",
     Description:"O Smart Rh é um sistema de gestão de recursos humanos desenvolvido em Java com Spring Boot, oferecendo funcionalidades para gerenciamento de funcionários, departamentos e folhas de pagamento.",
   },
 ]
