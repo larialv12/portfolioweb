@@ -31,7 +31,7 @@ const projects = [
     category: "Desenvolvimento",
     image: "/telaInicial.png",
     link:"https://1drv.ms/i/c/bd27488a96af19ae/IQDmR6hYgoYhQJ-FI-Q0fZA2AfZ7RSADFvaXTIqS7CXGatc?e=ZF4w2I",
-            repo :"",
+            repo :"https://github.com/larialv12/CRMdemo",
 
     Description:"Tela de sugestões para a página inicial de um sistema CRM, desenvolvida com foco em usabilidade, organização das informações e melhoria da experiência do usuário.",
   },
@@ -41,7 +41,7 @@ const projects = [
     category: "Desenvolvimento",
     image: "/portalCli.png",
     link:"https://1drv.ms/i/c/bd27488a96af19ae/IQBLFlLF4qMZRZNs8eMLAt5YATAyTOsnsRR-KlhiNlLTPyY",
-            repo :"",
+            repo :"https://github.com/larialv12/CRMdemo",
 
     Description:"Nova versão do Portal do Cliente CRM, desenvolvida para melhorar a usabilidade e facilitar o acesso dos usuários às informações, ocorrências e suporte do sistema.",
   },
